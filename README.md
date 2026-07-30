@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 4th-year **B.Eng. in Systems and Computer Engineering** student at Universidad de los Andes (GPA 4.4/5.0)
-- 💼 Data Analyst / Software Developer at the **Faculty of Business — Universidad de los Andes**
-- 🔐 Currently preparing for the **CC (Certified in Cybersecurity, ISC2)** certification
-- 🧠 Interested in **Artificial Intelligence** and **Cybersecurity**
-- 🌱 Working on a thesis project: a lightweight **cryptographic library for IoT devices**, featuring a Quantum Permutation Pad Random Number Generator (QPP-RNG)
+- 🎓 4th-year B.Eng. in Systems and Computer Engineering student at Universidad de los Andes (GPA 4.4/5.0)
+- 💼 Data Analyst / Software Developer at the Faculty of Administration — Universidad de los Andes
+- 🔐 Currently preparing for the CC (Certified in Cybersecurity, ISC2) certification
+- 🧠 Interested in Cybersecurity and Artificial Intelligence
+- 🌱 Working on my thesis project: a lightweight cryptographic library for IoT devices, featuring a Quantum Permutation Pad Random Number Generator (QPP-RNG)
 
 <!-- gif -->
 <p align="center">
@@ -71,8 +71,6 @@ Spanish (Native) · English (C2) · French (B2)
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrianvelasquezs&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
+</p> -->
