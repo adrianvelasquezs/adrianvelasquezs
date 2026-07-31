@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 4th-year B.Eng. in Systems and Computer Engineering student at Universidad de los Andes (GPA 4.4/5.0)
+- 🎓 4th-year B.Sc. in Systems and Computer Engineering student at Universidad de los Andes (GPA 4.4/5.0)
 - 💼 Data Analyst / Software Developer at the Faculty of Administration — Universidad de los Andes
 - 🔐 Currently preparing for the CC (Certified in Cybersecurity, ISC2) certification
 - 🧠 Interested in Cybersecurity and Artificial Intelligence
