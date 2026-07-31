@@ -32,12 +32,6 @@ Lightweight cryptographic library for resource-constrained IoT devices, includin
 
 ---
 
-### Languages
-
-Spanish (Native) · English (C2) · French (B2)
-
----
-
 ### Tech Stack
 
 **Languages**
